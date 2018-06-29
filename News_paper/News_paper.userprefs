@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\LoadSceneOnClick.cs">
+    <Files>
+      <File FileName="Assets\script\LoadSceneOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\QuitOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\DeployStageOnce.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Jurassic Pack\Creatures\Shared\shared.cs" Line="1" Column="1" />
+      <File FileName="Assets\Jurassic Pack\Manager\manager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="F:\Unity Projects\News_paper\Assets\script\LoadObject.cs" line="5" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
